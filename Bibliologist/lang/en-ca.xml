@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<language>
+  <messages>
+    <message key="test" value="A colourful message." />
+  </messages>
+  <genres>
+    <genre key="action" value="Action" />
+    <genre key="adventure" value="Adventure" />
+    <genre key="architecture" value="Architecture" />
+    <genre key="art" value="Art" />
+    <genre key="biography" value="Biography" />
+    <genre key="business" value="Business" />
+    <genre key="children" value="Children" />
+    <genre key="computers" value="Computers" />
+    <genre key="entertainment" value="Entertainment" />
+    <genre key="fantasy" value="Fantasy" />
+    <genre key="fiction" value="Fiction" />
+    <genre key="finance" value="Finance" />
+    <genre key="food" value="Food" />
+    <genre key="health" value="Health" />
+    <genre key="history" value="History" />
+    <genre key="horror" value="Horror" />
+    <genre key="humour" value="Humour" />
+    <genre key="language" value="Language" />
+    <genre key="literature" value="Literature" />
+    <genre key="magic" value="Magic" />
+    <genre key="mystery" value="Mystery" />
+    <genre key="photography" value="Photography" />
+    <genre key="reference" value="Reference" />
+    <genre key="religion" value="Religion" />
+    <genre key="romance" value="Romance" />
+    <genre key="science" value="Science" />
+    <genre key="sciencefiction" value="Science Fiction" />
+    <genre key="spirituality" value="Spirituality" />
+    <genre key="sports" value="Sports" />
+    <genre key="travel" value="Travel" />
+  </genres>
+  <formats>
+    <format key="Hardcover" value="Hardcover" />
+    <format key="MassMarketPaperback" value="Mass Market Paperback" />
+    <format key="TradePaperback" value="Trade Paperback" />
+    <format key="Textbook" value="Textbook" />
+    <format key="eBook" value="eBook" />
+    <format key="eBookDRM" value="eBook (DRM protected)" />
+    <format key="Audiobook" value="Audiobook" />
+  </formats>
+  <locations>
+    <location key="InCollection" value="In Collection" />
+    <location key="OnLoan" value="On Loan" />
+    <location key="OnWishlist" value="On Wishlist" />
+  </locations>
+  <statuss>
+    <status key="Unread" value="Unread" />
+    <status key="InProgress" value="In Progress" />
+    <status key="Read" value="Read" />
+    <status key="Abandoned" value="Abandoned" />
+    <status key="Reference" value="Reference" />
+  </statuss>
+</language>
